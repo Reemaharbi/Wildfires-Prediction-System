@@ -11,6 +11,8 @@ Project Overview
 - UML Diagrams: Detailed UML diagrams are included to illustrate the software’s structure and interactions.
 - Interface Development: Designed an intuitive interface for easy interaction with the system.
 
+![portfolio](https://github.com/Reemaharbi/Wildfires-Prediction-System/assets/97175030/0c553ca0-66e6-4233-9767-624a9d91ecc4)
+
 Key Features
 - Data Integration: The software receives and processes data from the Weather Operations Center Geospatial Analytics.
 - Factor Analysis: Studies the interactions between factors such as location, temperature, humidity, and wind to predict wildfire occurrences.
