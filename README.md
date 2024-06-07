@@ -4,6 +4,8 @@ Wildfire Prediction Software for Australia
 
 This project aims to develop an effective software solution to predict wildfires in Australia for the upcoming wildfire seasons. By leveraging data from the Weather Operations Center Geospatial Analytics, the software analyzes various factors contributing to wildfires, addressing a significant issue that leads to substantial losses.
 
+![8](https://github.com/Reemaharbi/Wildfires-Prediction-System/assets/97175030/947f1a04-d490-4b44-b3ad-b2d2bad90d14)
+
 Project Overview
 - Objective: To create a reliable software tool that predicts wildfires by analyzing weather and environmental data.
 - UML Diagrams: Detailed UML diagrams are included to illustrate the software’s structure and interactions.
